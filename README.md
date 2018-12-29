@@ -1,4 +1,4 @@
-# ![](CUBELOGO.png =200x100) CUBE-Cuvature-Regularization-Via-Biharmonic-Extension
+# <img src="CUBELOGO.png" width = "300" height = "200"  /> CUBE-Cuvature-Regularization-Via-Biharmonic-Extension
 
 
 Code for "CUBE: Curvature Regularization Via Weighted Nonlocal BiHarmonic For Image Processing"
