@@ -16,6 +16,14 @@ Code for "CUBE: Curvature Regularization Via Weighted Nonlocal BiHarmonic For Im
 <img src="Fig/bar1.png" width = "200" height = "140"  /><img src="Fig/barCUBE.png" width = "200" height = "140"  /><img src="Fig/barWNLL.png" width = "200" height = "140"  />
 
 
+PSNR
+
+<img src="Inpainting/PSNR.png" width = "600" height = "300"  />
+
+SSIM
+
+<img src="Inpainting/SSIM.png" width = "600" height = "300"  />
+
 ### Semi-supervised Learning
 
 In our test, we label 700, 100, 70, 50 and 35 images in MNIST respectively. The labeled images are selected at random in 70,000 images. For each sampling rate, we take 10 different random samples for comparisons.
