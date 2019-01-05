@@ -11,7 +11,7 @@ Code for "CUBE: Curvature Regularization Via Weighted Nonlocal BiHarmonic For Im
 
 <img src="Fig/bar.png" width = "160" height = "100"  /><img src="Fig/bari.png" width = "160" height = "100"  />
 
-(Ground Turth, W-CUBE, WNLL)
+(Ground Turth, W-CUBE:28.56dB, WNLL:27.78dB)
 
 <img src="Fig/bar1.png" width = "200" height = "140"  /><img src="Fig/barCUBE.png" width = "200" height = "140"  /><img src="Fig/barWNLL.png" width = "200" height = "140"  />
 
