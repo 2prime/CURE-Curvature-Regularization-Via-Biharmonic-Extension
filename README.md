@@ -7,7 +7,7 @@ Code for "CUBE: Curvature Regularization Via Weighted Nonlocal BiHarmonic For Im
 
 ### Image Inpainting
 
-(Ground Turth, Inpainting)
+(Ground Turth, Inpainting, Sample Rate:20%)
 
 <img src="Fig/bar.png" width = "160" height = "100"  /><img src="Fig/bari.png" width = "160" height = "100"  />
 
