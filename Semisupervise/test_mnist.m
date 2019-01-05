@@ -36,6 +36,6 @@ end
 
 
 fprintf('Accuracy of GL: %g, ', length(find(gnd==clustering_g')) / n);
-fprintf('Accuracy of WGL: %g, ', length(find(gnd==clustering_w')) / n);
-fprintf('Accuracy of BiH: %g, ', length(find(gnd==clustering_b')) / n);
-fprintf('Accuracy of WBiH: %g, ', length(find(gnd==clustering_wb')) / n);
+fprintf('Accuracy of WNLL: %g, ', length(find(gnd==clustering_w')) / n);
+fprintf('Accuracy of CUBE: %g, ', length(find(gnd==clustering_b')) / n);
+fprintf('Accuracy of WCUBE: %g, ', length(find(gnd==clustering_wb')) / n);
