@@ -8,13 +8,13 @@ Code for "CUBE: Curvature Regularization Via Weighted Nonlocal BiHarmonic For Im
 ###Image Inpainting
 
 <center>
-<img src="Fig/bar.png" width = "160" height = "100"  /><img src="bari.png" width = "160" height = "100"  />
+<img src="Fig/bar.png" width = "160" height = "100"  /><img src="Fig/bari.png" width = "160" height = "100"  />
 </center>
 
 
 
 <center>
-<img src="bar1.png" width = "160" height = "100"  /><img src="barCUBE.png" width = "160" height = "100"  /><img src="barWNLL.png" width = "160" height = "100"  />
+<img src="Fig/bar1.png" width = "160" height = "100"  /><img src="Fig/barCUBE.png" width = "160" height = "100"  /><img src="Fig/barWNLL.png" width = "160" height = "100"  />
 </center>
 
 ###Semi-supervised Learning
