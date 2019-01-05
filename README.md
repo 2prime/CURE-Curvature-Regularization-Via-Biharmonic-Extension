@@ -8,7 +8,7 @@ Code for "CUBE: Curvature Regularization Via Weighted Nonlocal BiHarmonic For Im
 ###Image Inpainting
 
 <center>
-<img src="bar.png" width = "160" height = "100"  /><img src="bari.png" width = "160" height = "100"  />
+<img src="Fig/bar.png" width = "160" height = "100"  /><img src="bari.png" width = "160" height = "100"  />
 </center>
 
 
