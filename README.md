@@ -4,6 +4,10 @@
 
 Code for "CUBE: Curvature Regularization Via Weighted Nonlocal BiHarmonic For Missing Data Recovery"
 
+### Requirement: 
+
+vlfeat-0.9.21
+matlab2016b+
 
 ### Image Inpainting
 
