@@ -2,7 +2,7 @@
 ## Regularize The Curvature Of Patch Manifold Via Biharmonic Extension
 
 
-Code for "CUBE: Curvature Regularization Via Weighted Nonlocal BiHarmonic For Image Processing"
+Code for "CUBE: Curvature Regularization Via Weighted Nonlocal BiHarmonic For Missing Data Recovery"
 
 
 ### Image Inpainting
