@@ -6,8 +6,8 @@ Code for "CUBE: Curvature Regularization Via Weighted Nonlocal BiHarmonic For Mi
 
 ### Requirement: 
 
-vlfeat-0.9.21
-matlab2016b+
+- vlfeat-0.9.21 <a href="http://www.vlfeat.org/">download</a>
+- matlab2016b+
 
 ### Image Inpainting
 
