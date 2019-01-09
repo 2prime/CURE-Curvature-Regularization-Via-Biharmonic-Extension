@@ -1,8 +1,8 @@
-# <img src="CUBELOGO.png" width = "160" height = "100"  /> Github Repository For CUBE
+ Github Repository For CURE
 ## Regularize The Curvature Of Patch Manifold Via Biharmonic Extension
 
 
-Code for "CUBE: Curvature Regularization Via Weighted Nonlocal BiHarmonic For Missing Data Recovery"
+Code for "CURE: Curvature Regularization Via Weighted Nonlocal BiHarmonic For Missing Data Recovery"
 
 ### Requirement: 
 
