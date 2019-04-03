@@ -4,6 +4,8 @@
 
 Code for "CURE: Curvature Regularization Via Weighted Nonlocal BiHarmonic For Missing Data Recovery"
 
+Thanks Prof. Zuoqiang Shi and Dr. Wei Zhu for their code for LDMM and WNLL.
+
 ### Requirement: 
 
 - vlfeat-0.9.21 <a href="http://www.vlfeat.org/">download</a>
