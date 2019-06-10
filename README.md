@@ -40,3 +40,15 @@ In our test, we label 700, 100, 70, 50 and 35 images in MNIST respectively. The 
 ### Image Denoising
 
 On going work.....
+
+
+### Cite
+
+```
+@article{dong2019cure,
+  title={CURE: Curvature Regularization For Missing Data Recovery},
+  author={Dong, Bin and Ju, Haocheng and Lu, Yiping and Shi, Zuoqiang},
+  journal={arXiv preprint arXiv:1901.09548},
+  year={2019}
+}
+```
